@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Mon Tron's Gifts
+bio:                'Self-published children's books and handmade blankets'
+description:        "Self-published children's books and handmade blankets"
 locale:             en_US
 baseurl: /
 url: https://montronsgifts.github.io
@@ -17,9 +17,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
+location:           Monroe, OH
 phone:              310-318-5555
-email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+email:              mrssimpson8616@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg.jpg
