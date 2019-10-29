@@ -1,5 +1,9 @@
-# Massively
-> This is Massively, a text-heavy, article-oriented design built around a huge background
+# Mon Tron's Gifts
+
+This is the website for Mon Tron's Gifts.
+
+## Massively
+> This site uses the Massively Jekyll Theme, a text-heavy, article-oriented design built around a huge background
 image.
 
 See a preview of the Massively Jekyll Theme here: [https://iwiedenm.github.io/jekyll-theme-massively/](https://iwiedenm.github.io/jekyll-theme-massively/). <br>
