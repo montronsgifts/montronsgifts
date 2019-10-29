@@ -4,7 +4,7 @@ bio:                "Self-published children's books and handmade blankets"
 description:        "Self-published children's books and handmade blankets"
 locale:             en_US
 baseurl: /
-url: https://montronsgifts.com
+url: montronsgifts.com
 
 # Comments
 disqus_shortname:   default
