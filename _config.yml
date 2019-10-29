@@ -3,8 +3,8 @@ title:              Mon Tron's Gifts
 bio:                "Self-published children's books and handmade blankets"
 description:        "Self-published children's books and handmade blankets"
 locale:             en_US
-baseurl: /
-url: montronsgifts.com
+baseurl: ""
+url: www.montronsgifts.com
 
 # Comments
 disqus_shortname:   default
