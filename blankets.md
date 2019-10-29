@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Crocheted Blankets
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ site.baseurl }}/images/pic04.jpg" alt="" /></span>
 
 Handmade Crocheted Blankets.
 
@@ -18,4 +18,4 @@ Handmade Crocheted Blankets.
 Handmade Tie-Blankets.
 
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ site.baseurl }}/images/pic05.jpg" alt="" /></span>

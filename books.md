@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Self-Published
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ site.baseurl }}/images/pic04.jpg" alt="" /></span>
 
 All of Monica Simpson's books are self-published through Lulu.com and you can find all of her books for online purchase on the [Spotlight Page](http://www.lulu.com/spotlight/MonicaSimpson).
 
@@ -42,4 +42,4 @@ All of Monica Simpson's books are self-published through Lulu.com and you can fi
 </div>
 
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ site.baseurl }}/images/pic05.jpg" alt="" /></span>

@@ -57,7 +57,7 @@ sitemap:
                     Find the perfect gift for friends or family and order online<br />
                     or visit us at a local event near you!</p>
 								</header>
-								<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a>
+								<a href="#" class="image main"><img src="{{ site.baseurl }}/images/pic01.jpg" alt="" /></a>
 							</article>
 
 						<!-- Posts -->
@@ -67,12 +67,12 @@ sitemap:
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
-  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+  										<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
   									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<a href="{{ site.baseurl }}{{ post.url }}" class="image fit"><img src="{{ site.baseurl }}{{ post.image }}" alt="" /></a>
   									<p>{{ post.excerpt }}</p>
   									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+  										<li><a href="{{ site.baseurl }}{{ post.url }}" class="button">Full Story</a></li>
   									</ul>
   								</article>
                   {% if mod3 == 0 %}
@@ -90,7 +90,7 @@ sitemap:
 						<!-- Footer -->
 							<footer>
                 <ul class="actions">
-                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+                  <li><a href="{{ site.baseurl }}/blog/" class="button">Our Blog</a></li>
                 </ul>
 							</footer>
 
