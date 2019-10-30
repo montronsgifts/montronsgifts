@@ -14,11 +14,7 @@ sitemap:
 <span class="image main"><img src="{{ site.baseurl }}/images/thick-purple-blanket.jpeg" alt="" /></span>
 <span class="image main"><img src="{{ site.baseurl }}/images/yellow-gray-blanket.jpeg" alt="" /></span>
 
-Handmade Crocheted Blankets.
-
 ## Tie Blankets
-
-Handmade Tie-Blankets.
 
 <span class="image main"><img src="{{ site.baseurl }}/images/animal-tie-blanket.jpeg" alt="" /></span>
 <span class="image main"><img src="{{ site.baseurl }}/images/elephant-tie-blanket.jpeg" alt="" /></span>

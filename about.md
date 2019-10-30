@@ -20,4 +20,4 @@ Monica Simpson is a wife and mother of two, Chloe and Leo. She is an author focu
   </p>
 </div>
 
-<span class="image left"><img src="{{ site.baseurl }}/images/family-photo.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/family-photo.jpeg" alt="" /></span>
