@@ -9,7 +9,10 @@ sitemap:
 ---
 ## Crocheted Blankets
 
-<span class="image left"><img src="{{ site.baseurl }}/images/pic04.jpg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/blue-orange-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/shell-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/thick-purple-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/yellow-gray-blanket.jpeg" alt="" /></span>
 
 Handmade Crocheted Blankets.
 
@@ -17,5 +20,9 @@ Handmade Crocheted Blankets.
 
 Handmade Tie-Blankets.
 
-
-<span class="image left"><img src="{{ site.baseurl }}/images/pic05.jpg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/animal-tie-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/elephant-tie-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/green-dino-tie-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/marvel-tie-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/orange-dino-tie-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/owl-tie-blanket.jpeg" alt="" /></span>
