@@ -37,6 +37,7 @@ All of Monica Simpson's books are self-published through Lulu.com and you can fi
 
 ### 123 at the Candy Shop
 <div class="box">
+  <span class="image left"><img src="{{ site.baseurl }}/images/123-at-the-candyshop.png" alt="" /></span>
   <p>
   Count to ten while you visit the candy shop, eat all the sweets that will make you skip and hop. The candy shop is always a favorite spot for kids with a variety of things to try. Find out about all the different candies that you can count while visiting a candy shop.
   </p>
