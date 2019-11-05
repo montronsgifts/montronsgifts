@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mon Tron's Gifts - Blankets - Monica Simpson
-description: Children's books written by Monica Simpson.
+description: Blankets created by Monica Simpson.
 sitemap:
     priority: 0.7
     lastmod: 2019-10-28
