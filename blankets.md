@@ -17,6 +17,8 @@ For an updated listing of blankets currently for sale visit [Mon Tron's Gifts' E
 <span class="image main"><img src="{{ site.baseurl }}/images/shell-blanket.jpeg" alt="" /></span>
 <span class="image main"><img src="{{ site.baseurl }}/images/thick-purple-blanket.jpeg" alt="" /></span>
 <span class="image main"><img src="{{ site.baseurl }}/images/yellow-gray-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/purple-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/green-orange-blue-blanket.jpeg" alt="" /></span>
 
 ### Tie Blankets
 
