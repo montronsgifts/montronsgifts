@@ -17,6 +17,7 @@ All of Monica Simpson's books are self-published through Lulu.com and you can fi
   <p>
   Learn the ABCs with animals that rhyme. Children and adults will have a good time. This colorful alphabet book uses rhymes and funny animal characters to help young children enjoy and learn their ABCs.
   </p>
+  <span style="clear:left;" />
 </div>
 
 ### 123 at the Zoo
@@ -25,6 +26,7 @@ All of Monica Simpson's books are self-published through Lulu.com and you can fi
   <p>
   Count to ten while you visit the zoo, see all the animals and the fun things they do. This rhyming book takes you on an adventure to the zoo, where you see animals in their habitats. Children can count along as you see a different number of animals on each page.
   </p>
+  <span style="clear:left;" />
 </div>
 
 ### ABC's at School
@@ -33,6 +35,7 @@ All of Monica Simpson's books are self-published through Lulu.com and you can fi
   <p>
   The alphabet is fun to learn at school. Reading and rhyming are very cool. Explore the many different classes and activities you may find at a school. This rhyming book helps teach the alphabet to kids in a familiar setting.
   </p>
+  <span style="clear:left;" />
 </div>
 
 ### 123 at the Candy Shop
@@ -41,6 +44,7 @@ All of Monica Simpson's books are self-published through Lulu.com and you can fi
   <p>
   Count to ten while you visit the candy shop, eat all the sweets that will make you skip and hop. The candy shop is always a favorite spot for kids with a variety of things to try. Find out about all the different candies that you can count while visiting a candy shop.
   </p>
+  <span style="clear:left;" />
 </div>
 
 
