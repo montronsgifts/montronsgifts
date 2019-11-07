@@ -28,3 +28,5 @@ For an updated listing of blankets currently for sale, visit [Mon Tron's Gifts' 
 <span class="image main"><img src="{{ site.baseurl }}/images/marvel-tie-blanket.jpeg" alt="" /></span>
 <span class="image main"><img src="{{ site.baseurl }}/images/orange-dino-tie-blanket.jpeg" alt="" /></span>
 <span class="image main"><img src="{{ site.baseurl }}/images/owl-tie-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/puzzle-tie-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/forrest-tie-blanket.jpeg" alt="" /></span>

@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Mon Tron's Gifts!"
 date:   2019-10-28
-excerpt: "The website for Mon Tron's Gifts is now live! Learn more about us"
+excerpt: "The website for Mon Tron's Gifts is now live! Learn more about us."
 image: "/images/product-photo.jpeg"
 ---
 
