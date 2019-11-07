@@ -14,3 +14,6 @@ For an updated listing of scarves currently for sale visit [Mon Tron's Gifts' Et
 ### Scarves
 
 <span class="image main"><img src="{{ site.baseurl }}/images/scarf.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/orange-fuzzy-scarf.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/black-fuzzy-scarf.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/blue-fuzzy-scarf.jpeg" alt="" /></span>
