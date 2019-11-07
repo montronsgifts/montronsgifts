@@ -16,7 +16,7 @@ Monica Simpson is a wife and mother of two, Chloe and Leo. She is an author focu
 ### Handmade Blankets
 <div class="box">
   <p>
-  When not working on her books, Monica enjoys crocheting.  She has made many different blankets of various patterns, sizes, and colors. She focuses on making brightly colored baby blankets, but also occasionally makes larger blankets.  She knows a variety of stitches and is continuing to learn and try new techniques.
+  When not working on her books, Monica enjoys crocheting and making tie blankets.  She has made many different blankets and scarves of various patterns, sizes, and colors. She focuses on making brightly colored baby blankets, but also occasionally makes larger blankets.  She knows a variety of stitches and is continuing to learn and try new techniques.
   </p>
 </div>
 
