@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Etsy
 
-For an updated listing of scarves currently for sale visit [Mon Tron's Gifts' Etsy Page](https://www.etsy.com/shop/MonTronsGifts).
+For an updated listing of scarves currently for sale, visit [Mon Tron's Gifts' Etsy Page](https://www.etsy.com/shop/MonTronsGifts).
 
 ### Scarves
 

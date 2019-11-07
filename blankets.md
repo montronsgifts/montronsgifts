@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Etsy
 
-For an updated listing of blankets currently for sale visit [Mon Tron's Gifts' Etsy Page](https://www.etsy.com/shop/MonTronsGifts).
+For an updated listing of blankets currently for sale, visit [Mon Tron's Gifts' Etsy Page](https://www.etsy.com/shop/MonTronsGifts).
 
 ### Crocheted Blankets
 
