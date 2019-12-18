@@ -24,4 +24,12 @@ For an updated listing of scarves currently for sale, visit [Mon Tron's Gifts' E
 <span class="image main"><img src="{{ site.baseurl }}/images/multi-color-scarf.jpeg" alt="" /></span>
 <span class="image main"><img src="{{ site.baseurl }}/images/pink-scarf.jpeg" alt="" /></span>
 <span class="image main"><img src="{{ site.baseurl }}/images/red-long-scarf.jpeg" alt="" /></span>
-<span class="image main"><img src="{{ site.baseurl }}/images/red-scarf.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/bengals-scarf.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/black-gray-white-scarf.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/blue-scarf.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/green-black-scarf.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/ohio-state-scarf.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/orange-white-scarf.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/pink-scarf.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/purple-stripe-scarf.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/yellow-white-gray-scarf.jpeg" alt="" /></span>
