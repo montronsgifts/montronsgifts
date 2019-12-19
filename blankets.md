@@ -30,3 +30,11 @@ For an updated listing of blankets currently for sale, visit [Mon Tron's Gifts' 
 <span class="image main"><img src="{{ site.baseurl }}/images/owl-tie-blanket.jpeg" alt="" /></span>
 <span class="image main"><img src="{{ site.baseurl }}/images/puzzle-tie-blanket.jpeg" alt="" /></span>
 <span class="image main"><img src="{{ site.baseurl }}/images/forrest-tie-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/baseball-tie-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/bear-tie-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/black-tie-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/blue-elephant-tie-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/dumptruck-tie-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/flamingo-tie-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/monkey-tie-blanket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/pink-plaid-tie-blanket.jpeg" alt="" /></span>
