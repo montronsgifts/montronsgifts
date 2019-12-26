@@ -19,12 +19,11 @@ facebook:           monica.simpson.92505
 # personal
 location:           Monroe, OH
 phone:              419-615-5487
-email:              mrssimpson8616@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+email:              mrssimpson8616@gmail.com
 
 # Other
 background_image:   /images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
-slapform_thankyou_page: /thank-you
 
 defaults:
 - scope:
