@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Self-Published
 
-All of Monica Simpson's books are self-published through Lulu.com and you can find all of her books for online purchase on the [Spotlight Page](http://www.lulu.com/spotlight/MonicaSimpson).
+All of my books are self-published through Lulu.com and you can find them for online purchase on the [Spotlight Page](http://www.lulu.com/spotlight/MonicaSimpson).
 
 ### ABC's with Animals
 <div class="box clear">
