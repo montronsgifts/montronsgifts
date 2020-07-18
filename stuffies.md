@@ -15,3 +15,5 @@ I make a variety of crocheted stuffed animals and objects.  Made with cotton yar
 
 <span class="image main"><img src="{{ site.baseurl }}/images/green-shark.jpeg" alt="" /></span>
 <span class="image main"><img src="{{ site.baseurl }}/images/icecream.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/pink-llama.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/blue-bear.jpeg" alt="" /></span>
