@@ -16,3 +16,4 @@ I make crocheted baskets in a variety of sizes, patterns, and colors.  Made with
 <span class="image main"><img src="{{ site.baseurl }}/images/mango-basket.jpeg" alt="" /></span>
 <span class="image main"><img src="{{ site.baseurl }}/images/purple-basket.jpeg" alt="" /></span>
 <span class="image main"><img src="{{ site.baseurl }}/images/coral-basket.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/white-basket.jpeg" alt="" /></span>

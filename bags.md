@@ -18,3 +18,5 @@ I make crocheted bags in a variety of sizes, patterns, colors, and styles.  Made
 <span class="image main"><img src="{{ site.baseurl }}/images/pink-orange-bag.jpeg" alt="" /></span>
 <span class="image main"><img src="{{ site.baseurl }}/images/purple-bag.jpeg" alt="" /></span>
 <span class="image main"><img src="{{ site.baseurl }}/images/purple-bag2.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/rainbow-bag.jpeg" alt="" /></span>
+<span class="image main"><img src="{{ site.baseurl }}/images/blue-bag-white-strap.jpeg" alt="" /></span>
